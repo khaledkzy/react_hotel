@@ -26,3 +26,21 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+.search {
+  padding: 5px 0 20px 0;
+}
+
+tr {
+  color: #c72b2b;
+}
+
+.results {
+  padding-top: 15px;
+}
+
+.footer {
+  padding-top: 20px;
+  text-align: center;
+}
